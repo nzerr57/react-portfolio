@@ -1,0 +1,29 @@
+*{
+    text-align: center;
+}
+
+body{
+    background: -webkit-linear-gradient(left, #3a9cf7, #463d3d);
+}
+
+h1 {
+    background-color: aqua;
+}
+
+
+nav {
+    margin: 10px;
+}
+
+.container {
+    background-color: white;
+}
+
+.nav {
+    color: white;
+    background-color: black;
+}
+
+.btn{
+    margin: 10px;
+}

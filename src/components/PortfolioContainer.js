@@ -25,7 +25,6 @@ const PortfolioContainer = () => {
   return (
     <BrowserRouter>
       <Header {...data} />
-      <NavTabs {...data} />
       <Route path={`${PUBLIC_URL}/`} exact component={About} />
       <Route path={`${PUBLIC_URL}/portfolio`} exact component={Portfolio} />
       <Route path={`${PUBLIC_URL}/contact`} exact component={Contact} />

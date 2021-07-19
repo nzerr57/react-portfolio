@@ -4,6 +4,7 @@ export default function About() {
   return (
     <>
       <h1>About Me</h1>
+      <div className="container">
       <img alt="profile pic" src="/images/profile-pic.jpg"/>
       <p>
       <p>Hi, my name is Nathan Zerr, and I am currently attending the UNC Charlotte Full-Stack coding bootcamp. I have had
@@ -13,7 +14,7 @@ export default function About() {
             degree in management in 2016 and shortly thereafter moved to the Charlotte, NC area. In my free time I enjoy
             woodworking, doing home renovation projects, and playing golf.</p>
       </p>
-      
+      </div>
     </>
   );
 }
