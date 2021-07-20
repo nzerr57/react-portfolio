@@ -6,10 +6,12 @@ const Header = (props) => {
 
     return (
         <>
-        <h1 class="background">Nathan Zerr</h1>
+        <div className="container background">
+        <h1>Nathan Zerr</h1>
         <ul className="nav nav-tabs">
       <NavLinks {...props} />
     </ul>
+    </div>
         </>
     );
 }

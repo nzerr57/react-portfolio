@@ -1,6 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faGithubSquare, faLinkedin } from '@fortawesome/free-brands-svg-icons';
+import { faGithubSquare, faLinkedin, faStackOverflow } from '@fortawesome/free-brands-svg-icons';
 import '../styles/style.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -8,14 +8,16 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 export default function Footer() {
     return (
         <>
-        <footer className="container">
-            <h2>Check out my GitHub and LinkedIn</h2>
+        <footer>
             <nav>
             <a href="https://github.com/nzerr57">
-                <FontAwesomeIcon className="fa-5x mr-3" icon={faGithubSquare} />
+                <FontAwesomeIcon className="fa-5x m-5 text-white" icon={faGithubSquare} />
             </a>
             <a href="https://www.linkedin.com/in/nathan-zerr/">
-            <FontAwesomeIcon className="fa-5x mr-3" icon={faLinkedin} />
+            <FontAwesomeIcon className="fa-5x m-5 text-white" icon={faLinkedin} />
+            </a>
+            <a href="https://stackoverflow.com/users/15796535/nzerr?tab=profile">
+            <FontAwesomeIcon className="fa-5x m-5 text-white" icon={faStackOverflow} />
             </a>
             </nav>
             </footer>
