@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.a30d09cd.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.d5d00b4a.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.d5d00b4a.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.3c880cb9.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.db3c3523.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.db3c3523.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.5f13de03.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.5f13de03.js.map",
     "static/css/2.4be38407.chunk.css": "/react-portfolio/static/css/2.4be38407.chunk.css",
-    "static/js/2.ff0e9b48.chunk.js": "/react-portfolio/static/js/2.ff0e9b48.chunk.js",
-    "static/js/2.ff0e9b48.chunk.js.map": "/react-portfolio/static/js/2.ff0e9b48.chunk.js.map",
+    "static/js/2.57827bdb.chunk.js": "/react-portfolio/static/js/2.57827bdb.chunk.js",
+    "static/js/2.57827bdb.chunk.js.map": "/react-portfolio/static/js/2.57827bdb.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
     "static/css/2.4be38407.chunk.css.map": "/react-portfolio/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.a30d09cd.chunk.css.map": "/react-portfolio/static/css/main.a30d09cd.chunk.css.map",
-    "static/js/2.ff0e9b48.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.ff0e9b48.chunk.js.LICENSE.txt",
+    "static/css/main.3c880cb9.chunk.css.map": "/react-portfolio/static/css/main.3c880cb9.chunk.css.map",
+    "static/js/2.57827bdb.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.57827bdb.chunk.js.LICENSE.txt",
+    "static/media/nathanZerrResume.d34b9afb.pdf": "/react-portfolio/static/media/nathanZerrResume.d34b9afb.pdf",
+    "static/media/profile-pic.5097bac3.jpg": "/react-portfolio/static/media/profile-pic.5097bac3.jpg",
     "static/media/proj-1.8be984b2.png": "/react-portfolio/static/media/proj-1.8be984b2.png",
     "static/media/proj-2.28e28b43.png": "/react-portfolio/static/media/proj-2.28e28b43.png",
     "static/media/proj-3.c2db2ba2.png": "/react-portfolio/static/media/proj-3.c2db2ba2.png",
@@ -22,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.5f13de03.js",
     "static/css/2.4be38407.chunk.css",
-    "static/js/2.ff0e9b48.chunk.js",
-    "static/css/main.a30d09cd.chunk.css",
-    "static/js/main.d5d00b4a.chunk.js"
+    "static/js/2.57827bdb.chunk.js",
+    "static/css/main.3c880cb9.chunk.css",
+    "static/js/main.db3c3523.chunk.js"
   ]
 }
