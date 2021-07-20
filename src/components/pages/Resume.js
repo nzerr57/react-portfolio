@@ -1,14 +1,15 @@
 import React from 'react';
 import NavTabs from '../NavTabs';
+import resume from "../../assets/images/nathanZerrResume.pdf"
+import "../../styles/style.css";
 
 export default function Resume() {
   return (
     <>
       <h1>Resume</h1>
       <div className="container">
-      <a href='/images/nathanZerrResume.pdf'>Click here to view my resume</a>
+      <a href={ resume }><h2>Click here to view my resume</h2></a>
       <h2>Proficiencies</h2>
-      <div className="container">
       <ul>
         <li>HTML</li>
         <li>CSS</li>
@@ -21,7 +22,6 @@ export default function Resume() {
         <li>Progressive Web Apps</li>
         <li>React</li>
       </ul>
-      </div>
       </div>
     </>
   );

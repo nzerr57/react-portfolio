@@ -53,3 +53,8 @@ p {
 .card {
     margin-bottom: 10px;
 }
+
+ul {
+    margin: auto;
+    list-style-position: inside;
+}
